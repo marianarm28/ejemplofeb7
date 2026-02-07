@@ -1,0 +1,22 @@
+Descripción etiquetas ejemplo 3
+#  Etiqueta   Función / Objetivo en la Estructura
+1  <!DOCTYPE html>,Informa al navegador que estamos usando el estándar HTML5.
+2  <html>,El contenedor raíz. Define el idioma (lang) para motores de búsqueda.
+3  <head>,Contiene metadatos no visibles (como el charset para tildes).
+4  <header>,Define la zona de introducción o navegación superior.
+5  <nav>,Define un bloque de enlaces de navegación principal (crítico para accesibilidad).
+6  <ul>,Lista desordenada para organizar los links del menú.
+7  <li>,Define cada ítem dentro de la lista de navegación.
+8  <a>,Crea hipervínculos; es la base de la navegación web.
+9  <hr>,Representa una ruptura temática entre párrafos o secciones.
+10  <main>,Define el contenido principal de la página. Ayuda al SEO.
+11  <section>,"Agrupa lógicamente contenidos relacionados (Banner, Formulario, etc)."
+12  <h1>,"Título de nivel superior, indica el tema central del sitio."
+13  <p>,Define párrafos de texto informativo.
+14  <figure>,Contenedor para contenido ilustrativo como el logo institucional.
+15  <img>,Embebe la imagen del escudo usando una ruta (URL).
+16  <figcaption>,Proporciona una leyenda descriptiva a la imagen del escudo.
+17  <h2>,Subtítulo para organizar jerárquicamente las secciones de main.
+18  <form>,Crea la sección interactiva para recolectar datos del usuario.
+19  <label>,Define la etiqueta de texto asociada a un campo de entrada.
+20  <input>,Campo donde el usuario escribe el nombre del proyecto.
