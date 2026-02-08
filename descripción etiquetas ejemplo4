@@ -1,0 +1,27 @@
+#,Etiqueta,Función / Objetivo en la Tienda
+
+1,  <!DOCTYPE html>,Define que este documento es HTML5 estándar.
+2,  <html>,"Raíz del documento, indica el lenguaje (esencial para SEO)."
+3,  <head>,Contenedor de metadatos y el título de la pestaña del navegador.
+4,  <header>,Zona superior que presenta la marca y el menú.
+5,  <nav>,Define el área de navegación principal de la tienda.
+6,  <ul>,Lista desordenada para los ítems del menú de navegación.
+7,  <li>,"Cada una de las opciones dentro del menú (Catálogo, Ubicación)."
+8,  <a>,Crea el vínculo (link) para saltar a otras secciones o páginas.
+9,  <hr>,Crea una línea horizontal para separar visualmente el header del contenido.
+10,  <main>,Envuelve el contenido único y más importante del sitio.
+11,  <section>,"Divide el contenido en bloques lógicos (Hero, Tabla, Formulario)."
+12,  <h1>,Título principal de la tienda; solo debe haber uno por página.
+13,  <p>,Define los párrafos de texto descriptivo del café.
+14,  <figure>,Contenedor semántico para la foto del producto.
+15,  <img>,Carga la imagen desde una URL externa o local.
+16,  <figcaption>,Texto descriptivo que acompaña la imagen (leyenda).
+17,  <h2> / <h3>,Encabezados de menor nivel que organizan las subsecciones.
+18,  <table>,Organiza los precios de forma estructurada para el usuario.
+19,  <caption>,Título descriptivo de la tabla de precios.
+20,  <form>,Define el área donde el usuario interactúa para comprar.
+21,  <label>,Mejora la accesibilidad vinculando texto con campos de entrada.
+22,  <select>,Crea una lista desplegable para elegir el tipo de café.
+23,  <aside>,Información lateral complementaria (datos curiosos sobre el café).
+24,  <address>,Indica la ubicación física de la cafetería en Manizales.
+25,  <small>,Para el aviso legal y copyright al final del sitio.

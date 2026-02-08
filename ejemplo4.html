@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Café & Libros | Tienda Oficial</title>
+</head>
+<body>
+    <header>
+        <nav> <ul> <li><a href="#catalogo">Catálogo</a></li> <li><a href="#contacto">Ubicación</a></li>
+            </ul>
+        </nav>
+        <hr> </header>
+
+    <main>
+        <section id="hero"> <h1>Despierta tus sentidos</h1> <p>Combinamos el mejor café de origen con literatura clásica.</p> <figure> <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300" alt="Taza de café humeante sobre un libro abierto"> <figcaption>Variedad: Geisha de Manizales</figcaption> </figure>
+        </section>
+
+        <section id="productos">
+            <h2>Nuestra Selección</h2> <table> <caption>Precios de Temporada</caption> <thead>
+                    <tr>
+                        <th>Producto</th>
+                        <th>Precio</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Café Tostado 500g</td>
+                        <td>$45.000</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="pedido">
+            <h3>Realiza tu Pedido</h3> <form action="/checkout" method="POST"> <label for="tipo">Selecciona tu grano:</label> <select id="tipo" name="tipo"> <option value="molido">Molido Fino</option>
+                    <option value="grano">En Grano</option>
+                </select>
+                <br>
+                <button type="submit">Agregar al carrito</button>
+            </form>
+        </section>
+
+        <aside> <h4>Dato Curioso</h4>
+            <p>El café crece mejor en alturas superiores a los 1.200 metros.</p>
+        </aside>
+    </main>
+
+    <footer>
+        <address> Calle 65 #23-10, Sector Cable, Manizales.<br>
+            Teléfono: 606-1234567
+        </address>
+        <small>&copy; 2026 El Grano y La Letra - Todos los derechos reservados.</small> </footer>
+</body>
+</html>
